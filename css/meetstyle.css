@@ -1,0 +1,36 @@
+body{
+    font-family: 'Covered By Your Grace', 'Rubik Microbe',cursive;
+    font-size: 30px;
+    color: blueviolet;
+    background-color: darkgrey;
+
+}
+
+.common{
+    background-color: rgb(196, 195, 195);
+    position: relative;
+    top: 390px;
+    color: blue;
+}
+.list{
+    background-color: bisque;
+    color: brown;
+    position: relative;
+    top: 390px;
+
+
+}
+
+.cerealpic{
+    position: fixed;
+    top: 5px;
+    right: 5px;
+}
+.anchor{
+    position: relative;
+    bottom: 2px;
+    left: 50px;
+    top: 500px;
+
+
+}
